@@ -1,4 +1,4 @@
-# 3. Pass/fail calculator  [Required]
+# 3. Pass/fail calculator
 # Task: Take three subject marks and calculate total, average percentage,
 #       and whether the student passes a rule you define explicitly.
 
