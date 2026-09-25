@@ -1,3 +1,7 @@
+# 1. Mini dictionary lookup   
+# Task: Create a dictionary of 5 Hindi words mapped to English meanings.
+#  Ask the user for a word and print its meaning, or a clear “not found” message.
+
 word={
     "billi":"cat",
     "chuha":"mouse",
